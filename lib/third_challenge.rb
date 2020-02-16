@@ -18,7 +18,7 @@ def third_challenge
    :capulet => {
       :patriarch => {
         #your key/value pairs here
-         :name => "Lody capulet", :age => "50"
+         :name => "Lord capulet", :age => "50"
         },
       :matriarch => {
         #your key/value pairs here
